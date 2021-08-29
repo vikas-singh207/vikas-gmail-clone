@@ -1,0 +1,8 @@
+.mainMenu {
+  display: flex;
+  width: 20%;
+}
+.mainmenu__mainIcon{
+  padding-top: 10px;
+  margin-right: 15px;
+}

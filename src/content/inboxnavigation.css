@@ -1,0 +1,16 @@
+.inbox-navigation{
+  display: flex;
+  padding-top: 10px;
+  padding-left:15px;
+}
+
+.inbox-navigation__content{
+  display: flex;
+  margin-right: 200px;
+  font-family: 'Google Sans', Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-size: .90rem;
+  color: #5f6368;
+}
+.inbox-navigation__content--icon{
+  margin-right: 15px;
+}

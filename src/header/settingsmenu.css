@@ -1,0 +1,21 @@
+.settingmenu{
+  display: flex;
+  padding-left: 100px;
+  padding-top: 10px;
+}
+.settindmenu__icons{
+  margin-right:15px;
+  color: #8a8585fc;
+}
+.settindmenu__userInitial{
+  height: 35px;
+    width: 35px;
+    background: #797d8a;
+    border-radius: 50%;
+    margin-top: -5px;
+    text-align: center;
+    padding-top: 7px;
+    font-size: 1.2rem;
+    font-family: Roboto,RobotoDraft,Arial,sans-serif;
+    color: white;
+}

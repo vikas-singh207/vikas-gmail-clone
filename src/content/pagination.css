@@ -1,0 +1,7 @@
+.pagination{
+  display: flex;
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-size: .75rem;
+  letter-spacing:.3px;
+  color: #5f6368;
+}

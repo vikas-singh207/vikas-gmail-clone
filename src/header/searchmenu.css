@@ -1,0 +1,25 @@
+.searchmenu {
+  display: flex;
+  background-color: #cfcdde26;
+  border-radius: 10px;
+  height: 50px;
+}
+.searchmenu__input {
+  background: transparent;
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 600px;
+  padding-top: 12px;
+  font-size: 1.1rem;
+}
+.searchmenu__searchIcon {
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.searchmenu__tuneIcon {
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

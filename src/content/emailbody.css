@@ -1,0 +1,36 @@
+.emailbody{
+  display: flex;
+  padding-top: 5px;
+  padding-left: 15px;
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-size: .9rem;
+  letter-spacing:.3px;
+  color: #5f6368;
+}
+.emailbody:hover{
+  border: 1px solid black;
+}
+.emailbody__icon{
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.emailbody__title{
+  width: 150px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.emailbody__body{
+  width: 640px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-right: 45px;
+  padding-left: 50px;
+
+}
+
+.emailbody__time{
+  margin-right: 10px;
+}
